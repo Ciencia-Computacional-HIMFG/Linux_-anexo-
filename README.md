@@ -1,2 +1,3 @@
-# Linux_-anexo-
+# Linux_(anexo)
+
 Material de apoyo para Linux. 
